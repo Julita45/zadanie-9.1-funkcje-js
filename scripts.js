@@ -4,9 +4,7 @@ function getTriangleArea(a, h) {
 	} else {
 		return 'Incorrect data';
 	}
-}
-
-console.log(getTriangleArea(10, 6));
+} 
 
 var triangle1Area = getTriangleArea(0, 15);
 console.log(getTriangleArea(0, 15));
